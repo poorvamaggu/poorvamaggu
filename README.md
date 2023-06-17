@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Poorva :)</h1>
 <h3 align="center">An enthusiastic frontend developer!</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif")
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poorvamaggu&label=Profile%20views&color=0e75b6&style=flat" alt="poorvamaggu" /> </p>
 
 - 🌱 I’m currently learning **Django**
@@ -13,7 +12,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/poorva maggu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="poorva maggu" height="30" width="40" /></a>
 <a href="https://instagram.com/poorva.maggu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="poorva.maggu" height="30" width="40" /></a>
 </p>
 
@@ -25,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poorvamaggu&show_icons=true&locale=en" alt="poorvamaggu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poorvamaggu&" alt="poorvamaggu" /></p>
+
